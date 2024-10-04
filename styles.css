@@ -1,0 +1,10 @@
+#oleraceas {
+    display: flex;
+    flex-direction: row;
+}
+
+.main-section {
+    max-width: 500px;
+    margin:8px;
+    text-align: center;
+}
