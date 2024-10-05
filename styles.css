@@ -1,14 +1,25 @@
 body {
     font-family: sans-serif;
+    background-color: lightseagreen;
 }
+
+main {
+    background-color: darkseagreen;
+    padding: 5px;
+}
+
 #oleraceas {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .main-section {
-    max-width: 500px;
+    max-width: 300px;
     margin:8px;
+    padding: 5px;
     text-align: center;
     background-color: seagreen;
+    color: white;
+    border-radius: 5%;
 }
