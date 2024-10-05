@@ -1,10 +1,17 @@
 body {
     font-family: sans-serif;
-    background-color: lightseagreen;
+    background-color: #e8c452;
+    color: #04756F;
+}
+
+header {
+    background-color: #004C66;
+    color: #e8c452;
+    padding: 5px;
 }
 
 main {
-    background-color: darkseagreen;
+    background-color: #ACEBAE;
     padding: 5px;
 }
 
@@ -19,7 +26,7 @@ main {
     margin:8px;
     padding: 5px;
     text-align: center;
-    background-color: seagreen;
-    color: white;
+    background-color: #008C74;
+    color: #332B40;
     border-radius: 5%;
 }
